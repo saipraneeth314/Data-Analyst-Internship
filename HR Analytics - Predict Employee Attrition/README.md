@@ -48,4 +48,12 @@ This project focuses on understanding why employees leave a company and predicti
 - PDF: Attrition Prevention Suggestions (insight-based recommendations)
 - Trained ML model (`.pkl`) + SHAP explanation visuals
 
+## SHAP Visualizations
 
+### Feature Importance (Summary Plot)
+
+![SHAP Summary Plot](Visuals/shap_summary_plot.png)
+
+### Individual Prediction Explanation (Waterfall Plot)
+
+![SHAP Waterfall Plot](Visuals/shap_waterfall_plot.png)

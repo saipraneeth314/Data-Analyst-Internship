@@ -24,7 +24,7 @@ This project focuses on understanding why employees leave a company and predicti
 
 ## Key Features
 
-- Cleaned and processed real-world HR dataset
+- Cleaned and processed a real-world HR dataset
 - EDA visualizations showing patterns in attrition
 - Trained ML models (Logistic Regression, XGBoostClassifier)
 - Model evaluation (Accuracy, Confusion Matrix, Classification Report)
